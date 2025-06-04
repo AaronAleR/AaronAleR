@@ -10,4 +10,7 @@
 💻 Interesado en la programacion
 
 ## Habilidades en desarrollo:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+
+## Herramientas que estoy usando:
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
